@@ -1,0 +1,137 @@
+div {}
+
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+hr {
+  width: 5%;
+  border-style: dotted none none none;
+  border-color: #3E588F;
+  border-width: 5px;
+  height: 0;
+  margin: 100px auto 100px auto;
+}
+
+h1 {
+  color: #3E588F;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #3E588F;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #203562;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-container {
+  margin: 35px auto 0 auto;
+  background-color: #C0C5CD;
+  position: relative;
+  padding: 20px 0 20px 0;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  background: #203562;
+  margin: 20px auto 50px auto;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #495464;
+  text-decoration: none;
+}
+
+.cloud-1 {
+  position: absolute;
+  right: 15%;
+  top: 50px;
+}
+
+.cloud-2 {
+  position: absolute;
+  left: 15%;
+  bottom: 300px;
+}
+
+.contact-me {
+  line-height: 2;
+}
+
+.footer-copyright {
+  color: #203562;
+}
+
+.footer-link {
+  color: #203562;
+  margin: auto 10px auto 10px;
+}
+
+.italicize {
+  font-style: italic;
+}
+
+.middle-container {}
+
+.profile-description {
+  margin: 50px auto 50px auto;
+  width: 50%;
+  line-height: 2;
+}
+
+.profile-pic {
+  width: 300px;
+  height: 300px;
+  margin: 50px auto 10px auto;
+}
+
+.pic-skill-code {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.pic-skill-scrum {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.pic-skill-program {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.skills-p {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #E3E8F8;
+  position: relative;
+  padding-top: 100px;
+}
